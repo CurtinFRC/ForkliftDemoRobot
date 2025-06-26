@@ -40,9 +40,9 @@ class TankDrivebase {
   double driveDeadzone = 0.05;
   double twistDeadzone = 0.01;
 
-  double maxForwardSpeed = 2.23;//_m / 1_s; // in meters per second
+  double maxForwardSpeed = 1.8;//_m / 1_s; // in meters per second
   // double maxRotationSpeed = 1.7;
-  double maxRotationSpeed = 2.4;
+  double maxRotationSpeed = 2.0;
 
   double maxMotorSpeed = maxForwardSpeed + _halvedWheelDistance * maxRotationSpeed;
 };

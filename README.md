@@ -1,2 +1,2 @@
-# Chipmunk
-2023 mentor bot
+# Forklift Demo Robot
+Code for the FRC-Style robot developed in partnership with Murdoch University and DPIRD
